@@ -47,14 +47,14 @@
 
 <p align="center">👉 Looking forward to contributing my skills as a Frontend Developer! Hire me and let's create something amazing together! 💻</p>
 
-<!-- Include a code snippet for GitHub stats -->
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=malinovv&show_icons=true&locale=en" alt="malinovv" />
-</p>
+</p> -->
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinovv&layout=compact" alt="malinovv" />
 </p>
 <h3 align="center">Daily Dev Card:</h3>
-<a href="https://app.daily.dev/malinovv"><img src="https://api.daily.dev/devcards/705effff66d4477e9a3929cc890006fe.png?r=h1h" width="400" alt="Kristijan Malinov's Dev Card"/></a>
+<a align="center" href="https://app.daily.dev/malinovv"><img src="https://api.daily.dev/devcards/705effff66d4477e9a3929cc890006fe.png?r=h1h" width="400" alt="Kristijan Malinov's Dev Card"/></a>
