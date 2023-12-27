@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kristijan</h1>
-<h3 align="center">Passionate Frontend Developer from Macedonia</h3>
+<h1 align="center">Hello, World! 👋 I'm Kristijan</h1>
+<h3 align="center">Passionate Frontend Developer | Macedonia</h3>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <img src="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv" alt="Coding Gif"/>
+</p>
+
+<p align="center">🚀 Started my front-end journey in July 2022 and haven't stopped coding since! 🌟</p>
+
+<h3 align="left">Connect with me 🌐:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/kristijan-m-b029b9275/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
@@ -9,16 +15,13 @@
   <!-- Add other social media links as needed -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools 🛠️:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -35,9 +38,16 @@
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
   </a>
- 
+  <!-- Add more languages and tools as needed -->
 </p>
 
+<p align="center">🚀 Passionate about crafting beautiful and interactive web experiences. 🌐</p>
+
+<p align="center">🌟 Accomplishments: Multiple websites, innovative structures, logical solutions, and interactive JavaScript games in my repos! 🎮</p>
+
+<p align="center">👉 Looking forward to contributing my skills as a Frontend Developer! Hire me and let's create something amazing together! 💻</p>
+
+<!-- Include a code snippet for GitHub stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=malinovv&show_icons=true&locale=en" alt="malinovv" />
 </p>
