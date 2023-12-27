@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Frontend Developer | Macedonia</h3>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv" alt="Coding Gif"/>
+  <img src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47vm7123y1lk70vvnpxvfe5zm3qyb8ohb0wv7mw0dp&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coding Gif"/>
 </p>
 
 <p align="center">🚀 Started my front-end journey in July 2022 and haven't stopped coding since! 🌟</p>
