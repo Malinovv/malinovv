@@ -12,7 +12,6 @@
   <a href="https://www.linkedin.com/in/kristijan-m-b029b9275/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
   </a>
-  <!-- Add other social media links as needed -->
 </p>
 
 <h3 align="left">Languages and Tools 🛠️:</h3>
@@ -38,7 +37,6 @@
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
   </a>
-  <!-- Add more languages and tools as needed -->
 </p>
 
 <p align="center">🚀 Passionate about crafting beautiful and interactive web experiences. 🌐</p>
@@ -47,14 +45,11 @@
 
 <p align="center">👉 Looking forward to contributing my skills as a Frontend Developer! Hire me and let's create something amazing together! 💻</p>
 
-<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=malinovv&show_icons=true&locale=en" alt="malinovv" />
-</p> -->
+</p>
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinovv&layout=compact" alt="malinovv" />
 </p>
-<h3 align="center">Daily Dev Card:</h3>
-<a align="center" href="https://app.daily.dev/malinovv"><img align="center" src="https://api.daily.dev/devcards/705effff66d4477e9a3929cc890006fe.png?r=h1h" width="400" alt="Kristijan Malinov's Dev Card"/></a>
