@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World! 👋 I'm Kristijan</h1>
-<h3 align="center">Passionate Frontend Developer | From North Macedonia </h3>
+<h3 align="center">Passionate Frontend Developer | From Macedonia </h3>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47vm7123y1lk70vvnpxvfe5zm3qyb8ohb0wv7mw0dp&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coding Gif"/>
