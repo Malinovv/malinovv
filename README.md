@@ -1,55 +1,93 @@
-<h1 align="center">Hello, World! 👋 I'm Kristijan</h1>
-<h3 align="center">Passionate Frontend Developer | From Macedonia </h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47vm7123y1lk70vvnpxvfe5zm3qyb8ohb0wv7mw0dp&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coding Gif"/>
-</p>
+# Hey, I'm Kristijan 👋
 
-<p align="center">🚀 Started my front-end journey in July 2022 and haven't stopped coding since! 🌟</p>
+### Full-stack developer building useful things for the web.
 
-<h3 align="left">Connect with me 🌐:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/kristijan-m-b029b9275/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
-  </a>
-</p>
+Based in Skopje, North Macedonia 🇲🇰 · Curious about product engineering, automation, and how systems work.
 
-<h3 align="left">Languages and Tools 🛠️:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Live_Project-Budgetko-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://budgetko.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristijan-m-b029b9275/)
+[![GitHub](https://img.shields.io/badge/GitHub-Malinovv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Malinovv)
 
-<p align="center">🚀 Passionate about crafting beautiful and interactive web experiences. 🌐</p>
+</div>
 
-<p align="center">🌟 Accomplishments: Multiple websites, innovative structures, logical solutions, and interactive JavaScript games in my repos! 🎮</p>
+---
 
-<p align="center">👉 Looking forward to contributing my skills as a Frontend Developer! Hire me and let's create something amazing together! 💻</p>
+### What I'm building
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malinovv&show_icons=true&locale=en" alt="malinovv" />
-</p>
+I like turning ideas into working products — from the first UI to the API, database, deployment, and everything in between. I enjoy solving messy problems, learning new tools, and making software simpler to use.
 
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinovv&layout=compact" alt="malinovv" />
-</p>
+**Currently exploring:** full-stack applications, developer tooling, automation, security, and AI-assisted development.
+
+### Featured project
+
+<table>
+<tr>
+<td>
+
+#### 💸 [Budgetko](https://budgetko.app)
+A personal and household budgeting app designed to make managing money feel more manageable.
+
+From product design to implementation, I've worked across the stack — frontend, backend, data, authentication, and deployment.
+
+**Explore:** [Live app ↗](https://budgetko.app)
+
+</td>
+</tr>
+</table>
+
+### Tech I work with
+
+**Frontend**  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+
+**Backend & data**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Tools & workflow**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+<details>
+<summary><b>⚡ A little more about how I work</b></summary>
+<br>
+
+- I enjoy working across the whole product, not just one layer.
+- I use AI coding tools, including Claude Code and OpenAI Codex, to explore ideas and accelerate development — while reviewing what ships.
+- I care about useful features, maintainable code, and learning through building.
+- My background in hospitality taught me to think about the person using the software, not only the code behind it.
+
+</details>
+
+### GitHub at a glance
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Malinovv&show_icons=true&hide_border=true&theme=transparent" alt="Kristijan's GitHub stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malinovv&layout=compact&hide_border=true&theme=transparent" alt="Most used languages in public GitHub repositories" height="160" />
+
+<sub>Stats reflect public GitHub activity and repositories, not everything I build.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+**Have an interesting idea or want to talk tech?**  
+[Connect on LinkedIn](https://www.linkedin.com/in/kristijan-m-b029b9275/) · [Check out Budgetko](https://budgetko.app)
+
+</div>
